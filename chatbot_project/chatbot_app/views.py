@@ -5,6 +5,7 @@ from rest_framework.views import APIView
 from rest_framework.response import Response
 from rest_framework import status
 
+# can be modified for chatGPT
 # Load environmental variables from a .env file
 load_dotenv()
 
